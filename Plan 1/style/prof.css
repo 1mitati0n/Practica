@@ -1,0 +1,253 @@
+input[type='text']{
+    border: none;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+
+    color: #70A0FF;
+
+}
+.sul{
+    color: #F58E2F !important;
+    text-decoration: none;
+}
+.sul1{
+    color: #70A0FF !important;
+    text-decoration: none;
+    font-size: 30px !important;
+}
+body{
+
+}
+/* header */
+header{
+    width: 100%;
+    height: 101px;
+    border: 1px solid;
+    border-color: #BEBEBE;
+}
+.container{
+    display: flex;
+    text-align: left;
+    margin-left: 30px;
+}
+.txt_logo{
+    font-size: 36px;
+ color: #F58E2F;
+}
+.txt_logo_2{
+    font-size: 36px;
+    color: #70A0FF;
+}
+.Express{
+    width: 163px;
+    height: 63,75px;
+}
+.nav_price{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 16px;
+}
+.user{
+    position: absolute;
+    right: 240px;
+    margin-top: 10px;
+}
+.point{
+    position: absolute;
+    right: 190px;
+    margin-top: 35px;
+
+}
+
+/* main */
+main{
+    width: 100%;
+    height: 1200px;
+}
+.text_auto{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+    position: absolute;
+    margin-top: 25px;
+    right: 80px;
+}
+.text_auto1{
+    width: 600px;
+    height: 200px;
+    font-size: 25px;
+    text-transform: uppercase;
+    color: black;
+    position: absolute;
+    margin-top: 60px;
+    right: 150px;
+
+}
+.text_auto2{
+    width: 600px;
+    height: 200px;
+    font-size: 25px;
+    text-transform: uppercase;
+    color: black;
+    position: absolute;
+    margin-top: 100px;
+    right: 80px;
+    margin-right: 45%;
+}
+.button_route{
+    width: 314px;
+    height: 78px;
+    border-color: #70A0FF;
+    font-weight: bold;
+    border: 4px solid;
+    border-radius: 161px;
+    font-size: 24px;
+    color: #70A0FF;
+    background-color: white;
+    text-decoration: none;
+}
+.button_route1{
+    width: 314px;
+    height: 78px;
+    border-color: #70A0FF;
+    font-weight: bold;
+    border: 4px solid;
+    border-radius: 161px;
+    font-size: 20px;
+    color: white;
+    background-color: #70A0FF;
+    text-decoration: none;
+
+}
+.button_route1{
+    position: absolute;
+    right: 200px;
+    margin-top: 280px;
+}
+.button_route2{
+    width: 314px;
+    height: 78px;
+    border-color: #70A0FF;
+    font-weight: bold;
+    border: 4px solid;
+    border-radius: 161px;
+    font-size: 20px;
+    color: white;
+    background-color: #70A0FF;
+    text-decoration: none;
+
+}
+.button_route2{
+    position: absolute;
+    margin-top: 22%;
+    margin-left: 22%;
+}
+/*Profile*/
+.avatar{
+    margin-top: 39px;
+    margin-left: 75px;
+    justify-content: start;
+    display: flex;
+}
+
+.name_profile{
+    text-align: center;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+.info{
+    border: 2px solid black;
+    width: 390px;
+    height: 370px;
+    border-radius: 52px;
+    margin-top: 45px;
+}
+.a_red{
+    margin-top: 85%;
+    margin-left: 60%;
+    position: absolute;
+}
+/*history*/
+.p_history{
+    color: #70A0FF;
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 75px;
+}
+.border_input{
+    text-align: center;
+}
+.border_in{
+    margin-bottom: 15px;
+    border-color: #70A0FF;
+    border-radius: 15px;
+    width: 90%;
+    height: 55px;
+    font-size: 25px;
+}
+.stats{
+    display: flex;
+    justify-content: space-around;
+}
+.input_stats{
+    color: #F58E2F;
+    width: 55px;
+}
+.p_stats{
+    font-size: 36px;
+    color: #70A0FF;
+}
+/*info*/
+.pod_name{
+    color: #8c8c8c;
+    font-size: 14px;
+    line-height: 1px;
+}
+.pod_name_a{
+    font-size:36px;
+    line-height: 1px;
+
+}
+.info_user{
+    margin-left: 25px;
+    margin-top: 35px;
+}
+/*h1_h*/
+
+
+/*footer*/
+.footer_low{
+    background-color: #C4C4C4;
+    width: 100%;
+    height: 166px;
+}
+.tex_par{
+
+}
+.footer_1{
+    height:33px;
+    width:655px;
+    display: flex;
+    justify-content: space-between;
+}
+.img_soc{
+ height: 83px;
+ width: 83px;
+}
+.img_soc_pos{
+    text-align: right;
+    position: relative;
+    bottom: 0;
+
+}
+.super_footer{
+    width: 100%;
+    height: 70px;
+    background-color: #8c8c8c;
+}
+.super_footer{
+    font-size: 25px;
+}
